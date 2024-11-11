@@ -1,4 +1,4 @@
-# BE_AIDS_ML_Practicals
+# sppu_ml_practicals
 
 This repository contains machine learning practicals for the Bachelor of Engineering in Artificial Intelligence and Data Science (AI & DS) curriculum. It includes a collection of projects and exercises that cover fundamental concepts and applications in machine learning.
 
@@ -26,6 +26,6 @@ This repository contains machine learning practicals for the Bachelor of Enginee
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Nehasardar2003/BE_AIDS_ML_Practicals.git
-   cd BE_AIDS_ML_Practicals
+   git clone https://github.com/rutu-0725/sppu_ml_practicals.git
+   cd sppu_ml_practicals
 
